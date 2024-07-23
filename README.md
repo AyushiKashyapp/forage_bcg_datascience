@@ -1,13 +1,13 @@
 # Forage Virtual Internship - BCG Data Science
 
 ## Skills
-DATA MANIPULATION
-DATA SCIENCE
-DATA VISUALISATION
-MACHINE LEARNING
-POWERPOINT
-PYTHON
-WEB SCRAPING
+- Data Manipulation
+- Data Science
+- Data Visualisation
+- Machine Learning
+- Powerpoint
+- Python
+- Web Scraping
 
 ### Task 1 
 Define the business requirement and a plan to achieve the desired goal.
